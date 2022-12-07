@@ -1,0 +1,29 @@
+<AnalysisServicesUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>DW Ejercicio4</Id>
+            <Name>DW Ejercicio4</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9jUalBwyLUSbiPYgNNYicwAAAAAcAAAARABXACAARQBqAGUAcgBjAGkAYwBpAG8ANAAAABBmAAAAAQAAIAAAAIkX60RZ2Re8SKBQfsNhY414pfhiJ5/t+jogQl3g2Qg7AAAAAA6AAAAAAgAAIAAAAMb3hWgKAHlsdFpqrIIZDMgNRAslZ3rV2jJILY5LGUvZEAAAACH8tDMAZXhDjeRi15KM8ulAAAAAF/sQOJhO0UxZp5aKBtQ45czA1Nl49tuO2pvZL2INwNjS5LNJ3fD5FrZydhPJujI7bJr0h2/NkBUT7MJWEg3pKw==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>DW Ejercicio4</Id>
+            <Name>DW Ejercicio4</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9jUalBwyLUSbiPYgNNYicwAAAAAcAAAARABXACAARQBqAGUAcgBjAGkAYwBpAG8ANAAAABBmAAAAAQAAIAAAAAKnAWneAlfdVobPNbmg1hCYH1UJGOUqSK2t0gaOa/dtAAAAAA6AAAAAAgAAIAAAAHNjP9lHHIvOym2+kr5S5blpvbzeON6o3xd+zdxZC1oeEAAAANIr39oPCxXNmJ2LDiv2HzdAAAAA4wn7er2Kyf/MzWcuG/WQQa/yPQ81y5H1PwtjI1LJAhHM4VFtYtUl4uxKdLzTCN2FCBzM7ibD2oqb66Y+ui74Cw==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <TargetServer>localhost</TargetServer>
+        <TargetDatabase>ejercicio6</TargetDatabase>
+        <StartObject>
+          <ObjectId></ObjectId>
+          <ObjectType>Current</ObjectType>
+        </StartObject>
+      </Options>
+    </Configuration>
+  </Configurations>
+</AnalysisServicesUserConfiguration>
